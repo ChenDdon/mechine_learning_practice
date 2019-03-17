@@ -15,3 +15,5 @@ https://www.manning.com/books/machine-learning-in-action
 1_kNN :                 第二章 k-近邻算法
 
 2_tree :                第三章 决策树
+
+3_beyes:                第四章 朴素贝叶斯：基于概率论的分类方法
